@@ -1,0 +1,45 @@
+.banner{
+   width:100%;
+   height: 650px;
+background:url(../img/CR7\,\ NEY\ \,\ MESSI.jpg);
+background-size: 100%;
+background-position-x: center;
+background-repeat: no-repeat;
+}
+
+.margin{
+    margin-bottom: 0px;
+}
+
+
+.paddin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.CRISTIANO-RONALDO{
+    width: 100%;
+}
+
+.CRISTIANO-RONALDO img{
+    width: 50%;
+
+}
+
+.MESSI{
+    width: 100%;
+}
+
+.MESSI img{
+    width: 50%;
+
+}
+.NEYMAR{
+    width: 100%;
+}
+
+.NEYMAR img{
+    width: 50%;
+
+}
